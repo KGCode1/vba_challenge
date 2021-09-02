@@ -13,12 +13,12 @@ There are differnt ways to identify the best performing stock across years from 
 *For Year 2017*
 
 The below screenshot shows the total volume and returns by end of the year 2017 for each ticker. The total time it took after refactor is 0.156 sec compared to .53 seconds prior to code refactoring.
-![](Resources/Stocks_analysis_for_year_2017.png")
+![](https://github.com/KGCode1/vba_challenge/blob/main/Resources/Stocks%20analysis%20for%20year%202017.PNG)
 
 *For Year 2018*
 
 The below screenshot shows the total volume and returns by end of the year 2018 for each ticker. The total time it took after refactor is 0.1406 sec compared to .49 seconds prior to code refactoring.
-![](Resources/Stocks_analysis_for_year_2018.png)
+![](https://github.com/KGCode1/vba_challenge/blob/main/Resources/Stocks%20analysis%20for%20year%202018.PNG)
 
 ##### **Summary**
 
